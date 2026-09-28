@@ -52,9 +52,11 @@ streamlit run app.py
 ```
 ### 🌐 Deployment
 🔗 Live Demo: [Click](https://mobileaddictionlevelprediction-1.streamlit.app/)
+
 ---
 ###🔗 LinkedIn Post
 📌 LinkedIn Project Post: [Click here to view post](https://lnkd.in/p/evaCRP6Z)
+
 ---
 ### 📈 Insights
 - Higher daily usage and screen time before bed increase addiction risk.
@@ -62,11 +64,14 @@ streamlit run app.py
 - Social media and gaming drive higher addiction compared to education or family communication.
 - Frequent phone checks per day are a strong indicator of addictive behavior.
 ---
+
 ### 🏫 Acknowledgements
 This project was completed as part of my training at Innomatics Research Labs, under the guidance of my trainer and mentor. Their support helped me gain practical exposure to Data Science and AI applications.
+
 ---
 ### 📌 Conclusion
 This project highlights how data‑driven insights can help individuals and organizations encourage healthier digital habits. The predictive model and app can be used for awareness, self‑assessment, and promoting mindful technology use.
+
 ---
 ### 📎 Contact
 - Author: VINAY
