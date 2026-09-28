@@ -124,6 +124,9 @@ import joblib
 # 🎨 Page setup
 st.set_page_config(page_title="Mobile Addiction Predictor", page_icon="📱", layout="wide")
 st.title("📱 Mobile Addiction Level Prediction")
+col1, col2 = st.columns([8,3])  # adjust ratio for spacing
+with col2:
+    st.markdown("**Created by K.V.$.V!n@y**")
 st.markdown("Fill in the details below to estimate the **Addiction Level**.")
 
 # 🔹 Load your trained model (cached so it loads only once)
